@@ -16,7 +16,7 @@
 
 
 ## SHOWCASE 🎬
-https://youtu.be/ILQkkuWpbCQ
+https://youtu.be/6Ti4dy_PLbg
 
 ## INSTALATION
 
@@ -33,7 +33,7 @@ You need items then paste it into ox_inventory/data/items.lua
 	['victimsdrugs'] = {
 		label = 'Weird pills',
 		weight = 1,
-		stack = false,
+		stack = true,
 	},
 ```
 
