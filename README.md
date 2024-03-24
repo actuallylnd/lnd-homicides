@@ -16,7 +16,7 @@
 
 
 ## SHOWCASE 🎬
-https://youtu.be/6Ti4dy_PLbg
+https://youtu.be/aqJtlFTu1C4
 
 ## INSTALATION
 
